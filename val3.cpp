@@ -27,8 +27,8 @@
    	cout<< "Which index item would you like to retrieve?\n";
    	cin>> indx;
    }
-   while(indx > size -1  || indx < 0);
-   
+   //while(indx > size -1  || indx < 0);
+   whatalsdkjf;alsdkjf
    cout<< "The value at position " << indx <<"\n";
    cout<<"is: "<<  vals[indx];
 
