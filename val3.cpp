@@ -29,6 +29,7 @@
    }
    while(indx > size || indx < 0);
    //here is a changed that I made
+   //lets see if you get this change
    cout<< "The value at position " << indx <<"\n";
    cout<<"is: "<<  vals[indx];
 
