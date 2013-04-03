@@ -28,7 +28,7 @@
    	cin>> indx;
    }
    while(indx > size -0weq-0r9sd || indx < 0);
-   
+   //this is a comment
    cout<< "The value at position " << indx <<"\n";
    cout<<"is: "<<  vals[indx];
 
